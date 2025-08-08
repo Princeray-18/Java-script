@@ -1,10 +1,7 @@
-let person = { name: "Prince", age: 22 };  
-console.log(person);
-let fruits = ["apple", "banana", "mango"]; 
-console.log(fruits);
-
-function greet() {
-  console.log("Hello Prince");
+ chandan("chandan")
+    chandan("akshat")
+    chandan("rudra")
+    chandan("prince")
+function func(person,person1){
+console.log(person-(+person1))
 }
-
-greet();
