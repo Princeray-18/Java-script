@@ -11,15 +11,15 @@
 // // sayhello() 
  
 // // // Parameterized function 
-// function chandan(person,person1){
-//      console.log(person+" handsome",+person1)
-//  }
+function chandan(person,person1){
+     console.log(person+" handsome",+person1)
+ }
 
-//  function chandan(person, person1) {
-//     console.log(person + " handsome " + person1);
-// }
-//  chandan("chandan")
-//     chandan("akshat")
+ function chandan(person, person1) {
+    console.log(person + " handsome " + person1);
+}
+ chandan("chandan","prince")
+//    chandan("akshat")
 //     chandan("rudra")
 //     chandan("prince")
 // function func(person,person1){
