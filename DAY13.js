@@ -1,11 +1,10 @@
-// func()
-// function func(){
-//     console.log ("happy b day")
-
+// func();
+// function func() {
+//     console.log("happy b day");
 // }
-// func()
 
-// op()
-// const op=function(){
-//     console.log("Hiii")
-// }
+// // Call after definition
+// const op = function () {
+//     console.log("Hiii");
+// };
+// op();
